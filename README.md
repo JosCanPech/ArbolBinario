@@ -1,4 +1,15 @@
+![image](https://github.com/user-attachments/assets/ea4bf344-06ad-456f-b389-d8ac5e84e9e6)# Notefiles - Gestor de Notas Intuitivo y Personalizable ✨
 
+## ¡Bienvenido a Notefiles! 🚀
+
+  <img src='avances/preview.png'>
+
+
+# Inicio basico del proyecto notefiles
+
+## 🚀 Estructura del proyecto
+
+Dentro del proyecto, verás las siguientes carpetas y archivos:
 ```text
 /
 ├── Assets/
